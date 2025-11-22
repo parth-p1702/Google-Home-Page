@@ -6,6 +6,4 @@ This was the first significant page I made using HTML and CSS, and it helped me 
 I cloned the Google homepage as precisely as I could, but there might be some minor discrepancies, especially across various browsers.
 Even so, this was extremely fun and insightful, and if you haven't tried it yet, I encourage you to do so!
 
-~Aditi
-
-PS: You can see it work [here](https://htmlpreview.github.io/?https://github.com/g-aditi/google-homepage/blob/main/index.html)! 
+~Parth
